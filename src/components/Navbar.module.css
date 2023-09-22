@@ -1,0 +1,21 @@
+nav {
+  background-color: rgb(120, 172, 223);
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  border-radius: 2cqh;
+  border: none;
+  height: 40px;
+  margin-right: 80px;
+  font-size: 15px;
+}
